@@ -25,7 +25,6 @@ Defining a RESTful API with Swagger
   the server that implements the API
   the clients that use the API
 Swagger offers a large ecosystem offering powerful tools: you are able to generate client SDKs, visually edit your Swagger definition and use many other helpful tools. 
-
 The following json template file to create:
                 1.Dynamo db
                 2.Rest api
@@ -36,7 +35,6 @@ The following json template file to create:
                         Stages
                 3.Two Functions with IAM role
 Refernce link:
-        https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-apigateway-restapi.html
-        
-        https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjC0cmpqLreAhWRknAKHR-kDawQjRx6BAgBEAU&url=https%3A%2F%2Fcloudonaut.io%2Fapi-gateway-custom-authorization-with-lambda-dynamodb-and-cloudformation%2F&psig=AOvVaw0YYeiWAK2146QL_os0wWEZ&ust=1541406360420639
+            https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-apigateway-restapi.html
+            https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjC0cmpqLreAhWRknAKHR-kDawQjRx6BAgBEAU&url=https%3A%2F%2Fcloudonaut.io%2Fapi-gateway-custom-authorization-with-lambda-dynamodb-and-cloudformation%2F&psig=AOvVaw0YYeiWAK2146QL_os0wWEZ&ust=1541406360420639
               
