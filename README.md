@@ -4,7 +4,7 @@ Create a serverless RESTful API with API Gateway, Swagger, Lambda, and DynamoDB
    
 Implementing a RESTful API with API Gateway, Lambda, and DynamoDB
     
-    API Gateway provides an HTTP API endpoint that is fully configurable. You define the HTTP resources (like /user), the HTTP methods on that resources (like POST, GET, DELETE, …) and the integration (e.g. Lambda function) that should be called to process the request. The Lambda function can then run whatever logic is needed to answer the request. The result of the Lambda function is returned by the API Gateway to the caller. The following figure demonstrates this flow.
+   API Gateway provides an HTTP API endpoint that is fully configurable. You define the HTTP resources (like /user), the HTTP methods on that resources (like POST, GET, DELETE, …) and the integration (e.g. Lambda function) that should be called to process the request. The Lambda function can then run whatever logic is needed to answer the request. The result of the Lambda function is returned by the API Gateway to the caller. The following figure demonstrates this flow.
 If you want to define a REST API you need to specify:
 
                 Resources (e.g. GET //subject/{Subject}/avg)
@@ -27,7 +27,7 @@ Defining a RESTful API with Swagger
 
   the server that implements the API
   the clients that use the API
-Swagger offers a large ecosystem offering powerful tools: you are able to generate client SDKs, visually edit your Swagger definition and use many other helpful tools. 
+
 The following json template file to create:
                 1.Dynamo db
                 2.Rest api
