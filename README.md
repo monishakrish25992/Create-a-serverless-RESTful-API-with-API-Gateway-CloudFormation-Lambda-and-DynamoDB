@@ -9,12 +9,13 @@ Implementing a RESTful API with API Gateway, Lambda, and DynamoDB
 
 If you want to define a REST API you need to specify:
 
-                Resources (e.g. GET /user)
-                Methods on each resource (e.g. GET /user)
+                Resources (e.g. GET //subject/{Subject}/avg)
+                          ( POST /Subject)
+                Methods on each resource (e.g. GET and POST)
                 Input
                         Body Model
                         Headers
-                        Path parameters (e.g. GET /user/:userId)
+                        Path parameters (e.g. GET //subject/{Subject}/avg)
                 Mapping HTTP input to integration input
                 Integrations (e.g. Lambda functions)
                 Mapping integration output to HTTP output
