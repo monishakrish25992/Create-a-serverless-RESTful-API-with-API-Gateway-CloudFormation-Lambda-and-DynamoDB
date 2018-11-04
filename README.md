@@ -31,3 +31,15 @@ Defining a RESTful API with Swagger
   the server that implements the API
   the clients that use the API
 Swagger offers a large ecosystem offering powerful tools: you are able to generate client SDKs, visually edit your Swagger definition and use many other helpful tools. 
+
+The following json template file to create:
+        1.Dynamo db
+        2.Rest api
+           Resources
+           Method:
+              *get
+              *POST
+           Stages
+        3.Two Functions with IAM role
+ 
+              
